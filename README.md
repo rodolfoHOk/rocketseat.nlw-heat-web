@@ -1,9 +1,5 @@
 # 🚀 Front-End ReactJs do NLW-07 HEAT - RocketSeat 🚀
 
-<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/nlw-heat-web-01.png" alt="NLW HEAT Img1" width="450"/>
-
-<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/nlw-heat-web-02.png" alt="NLW HEAT Img2" width="450"/>
-
 ## 👨‍💻 Tecnologias utilizadas 👩‍💻
 
 - Javascript (Linguagem programação)
@@ -41,6 +37,12 @@
 - criar um web socket client para um determinado servidor web (método io())
 - criar escuta para uma determinada ação emitida pelo servidor (método on())
 - a escuta executa uma ação no app (no caso guarda a informação emitida em um estado)
+
+## Imagens do projeto
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/nlw-heat-web-01.png" alt="NLW HEAT Img1" width="450"/>
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/nlw-heat-web-02.png" alt="NLW HEAT Img2" width="450"/>
 
 ## ⚙️ Link para o projeto do Back-End no Github 🗄️
 
