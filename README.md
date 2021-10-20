@@ -38,7 +38,7 @@
 - criar escuta para uma determinada ação emitida pelo servidor (método on())
 - a escuta executa uma ação no app (no caso guarda a informação emitida em um estado)
 
-## Imagens do projeto
+## 🖼️ Imagens do projeto 👀
 
 <img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/nlw-heat-web-01.png" alt="NLW HEAT Img1" width="450"/>
 
