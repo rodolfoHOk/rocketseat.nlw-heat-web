@@ -58,6 +58,6 @@ https://github.com/rodolfoHOk/nlw-heat-web
 
 https://github.com/rodolfoHOk/nlw-heat-mobile
 
-### 🔗 Link para o projeto do Front-End Elixir no Github 🏷️
+### 🔗 Link para o projeto do Back-End Elixir no Github 🏷️
 
 https://github.com/rodolfoHOk/nlw-heat-elixir
