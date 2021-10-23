@@ -44,6 +44,20 @@
 
 <img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/nlw-heat-web-02.png" alt="NLW HEAT Img2" width="450"/>
 
-## ⚙️ Link para o projeto do Back-End no Github 🗄️
+## 🚀 Links para todos os projetos criados no evento: 🚀
+
+### 🔗 Link para o projeto do Back-End Node no Github 🗄️
 
 https://github.com/rodolfoHOk/nlw-heat-node
+
+### 🔗 Link para o projeto do Front-End Web no Github 🖥️
+
+https://github.com/rodolfoHOk/nlw-heat-web
+
+### 🔗 Link para o projeto do Front-End Mobile no Github 📱
+
+https://github.com/rodolfoHOk/nlw-heat-mobile
+
+### 🔗 Link para o projeto do Front-End Elixir no Github 🏷️
+
+https://github.com/rodolfoHOk/nlw-heat-elixir
